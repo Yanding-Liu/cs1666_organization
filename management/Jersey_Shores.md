@@ -48,9 +48,11 @@
 2. 11/16 - 11/29
 	* Manager: Qiran Li
 	* Goals:
-		1. ...
-		1. ...
-		1. ...
+		1. make state switching occur only on top of folders
+		2. start adding in red herrings
+		3. continue to build structure of model in Rust
+		4. continue to tune and perfect the model 
+		5. make Rover respond
 2. 11/30 - 12/06
 	* Manager: Sodi Kroehler
 	* Goals:
