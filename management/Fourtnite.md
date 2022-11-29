@@ -55,6 +55,10 @@
 2. 11/30 - 12/06
 	* Manager: Caela Go
 	* Goals:
-		1. ...
-		1. ...
-		1. ...		
+		1. Implement advanced movesets
+		2. Make enemies take their own turns outside of counterattacks 
+		3. Exchange and update battle stats upon player's turn
+ 		4. Display some sort of message indicating winner of battle
+		5. Add graceful exit to start menu after battle is completed
+		6. Handle player quitting mid-game
+		7. Handle dropped packets		
