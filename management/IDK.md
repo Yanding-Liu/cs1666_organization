@@ -65,6 +65,11 @@
 10. 11/30 - 12/06
 	* Manager: John Stroud
 	* Goals:
-		1. ...
-		1. ...
-		1. ...		
+		1. Connecting Hallways
+		2. Win and Lose state transitions
+		3. Fog mechanic
+		4. In-game combat log
+		5. Train a weaker AI
+		6. Boss fight transition
+		7. Unzip during runtime
+		8. Create furniture for rooms	
