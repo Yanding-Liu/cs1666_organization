@@ -52,9 +52,11 @@
 2. 11/16 - 11/29
 	* Manager: Adam Sheelar
 	* Goals:
-		1. ...
-		1. ...
-		1. ...
+		1. adjust enemy moments to make it seem more "real"
+		2. add additional states so the enemy can attack the player
+		3. work on enemy structs so we can start working on implementing 		    multiple levels
+		4. add dictionary
+		5. do some pos (part of speech) tagging
 2. 11/30 - 12/06
 	* Manager: Emily Kyle
 	* Goals:
