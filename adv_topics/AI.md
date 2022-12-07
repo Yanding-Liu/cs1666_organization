@@ -89,11 +89,40 @@ etails
 
 ## Presentation 3
 
-* Topic 1
-	* Details
-	* Details
-	* Details
-* Topic 2
-	* Details
-	* Details
-	* Details
+* Topic 1 Line of Sight
+	* Bresenham's Algorithm
+		* What is it / pseudocode
+		* Why we didn’t use it
+	* Line Segment intersection algorithm
+		* Introduction (What the algorithm does)
+  		* How the algorithm works --> breakdown pseudocode
+  		* Usage in our code & interaction with nodes
+* Topic 2 Pathfinding
+	* A* and Dijkstra’s algorithms
+		* Pseudocode for Dijkstra’s
+		* Benefits and drawbacks for Dijkstra’s
+		* Examples of Dijkstra's algorithm
+		* Pseudocode for A*
+		* Benefits and drawbacks for A*
+		* Examples of A* algorithm
+		* Comparison between Dijkstras and A*
+	* Implementations (Currently using Dijkstras, will move to A*)
+		* Our code for Dijkstras & pseudocode comparison
+		* Performance and demonstration
+		* Our code for A* & pseudocode comparison
+		* Performance and demonstration
+	* Challenges and overcoming them
+		* Problems with Dijkstra’s
+		* Nodes within the map
+		* Problems with A*
+* Topic 3 Decision Making
+	* How the path is interpreted by enemies
+	* When the path is updated
+	* Different types of motion for the enemy
+	* How the enemy knows to reach player (active player on static graph)
+	* Node Mesh Map
+		* Implementation
+	* Decision Making Process
+		* Implementation
+	
+
