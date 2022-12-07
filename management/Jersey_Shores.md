@@ -56,6 +56,8 @@
 2. 11/30 - 12/06
 	* Manager: Sodi Kroehler
 	* Goals:
-		1. ...
-		1. ...
-		1. ...		
+		1. Rover responds correctly
+		1. Stretch goals finished as described in outline
+		1. all assets completed
+		2. all red herrings and missions completed
+		3. finish and test all game features
