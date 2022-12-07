@@ -60,6 +60,8 @@
 2. 11/30 - 12/06
 	* Manager: Emily Kyle
 	* Goals:
-		1. ...
-		1. ...
-		1. ...		
+		1. make exception for stemmer y to i
+		2. make intermediate screen between levels
+		3. make enemy responses (in conversation) more personalized (make the responses more unique for each enemy) 
+		4. make enemy AI (in fight) more responsive to player
+		5. incorporate (fight) levels which line up with conversation levels
