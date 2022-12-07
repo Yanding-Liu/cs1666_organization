@@ -60,6 +60,9 @@
 2. 11/30 - 12/06
 	* Manager: Giovanni Versace
 	* Goals:
-		1. ...
-		1. ...
-		1. ...		
+		1. AI: Implement AI attacks
+		2. AI: Implement additional enemy types
+		3. AI: Finalize movement meshes for maps
+		4. Physics: Ridid body collisions
+		5. Insert texutures 
+		6. Reach MVP
